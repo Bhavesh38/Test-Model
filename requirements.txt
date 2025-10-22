@@ -1,0 +1,31 @@
+# === Core Python Libraries ===
+numpy
+pandas
+scipy
+requests
+matplotlib
+seaborn
+
+# === Machine Learning & Modeling ===
+scikit-learn
+xgboost
+shap
+
+# === API / Data Fetching ===
+python-dotenv     # for managing API keys/config
+yfinance           # optional if you pull market data
+investpy           # optional for financial instruments
+
+# === Visualization / Dashboard ===
+plotly
+streamlit          # interactive visualization dashboard
+
+# === Logging & Utils ===
+loguru
+tqdm
+pytz
+
+# === Testing & Environment ===
+pytest
+ipykernel          # enables Jupyter kernel if you use notebooks
+notebook           # Jupyter Notebooks
